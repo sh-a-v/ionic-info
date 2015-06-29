@@ -1,5 +1,14 @@
 # ionic-test
 
+### Install
+
+http://ionicframework.com/docs/guide/installation.html
+
+### CLI
+
+http://ionicframework.com/docs/ionic-cli-faq
+
+### tmp
 
 ```
 npm install -g cordova ionic
@@ -30,8 +39,4 @@ Your Ionic project is ready to go! Some quick tips:
  * Package an app using Ionic package service: `ionic package <MODE> <PLATFORM>`
 
 For more help use ionic --help or ionic docs
-
-### CLI
-
-http://ionicframework.com/docs/ionic-cli-faq/#android-sdk
 
