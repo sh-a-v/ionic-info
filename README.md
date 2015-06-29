@@ -8,6 +8,10 @@ http://ionicframework.com/docs/guide/installation.html
 
 http://ionicframework.com/docs/ionic-cli-faq
 
+### learning
+
+http://learn.ionicframework.com/
+
 ### tmp
 
 ```
